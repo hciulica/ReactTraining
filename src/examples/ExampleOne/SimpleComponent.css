@@ -1,0 +1,19 @@
+/* Container styling */
+.container {
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+/* Input field styling */
+.input-field {
+  height: 30px;
+  padding: 10px;
+}
+
+/* Button styling */
+.submit-button {
+  height: 40px;
+  margin-left: 20px;
+}
