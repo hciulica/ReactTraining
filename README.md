@@ -31,3 +31,14 @@
    ```bash
    npm run preview
    ```
+   
+## VS Code Extensions Setup
+To streamline your development experience, the project includes a PowerShell script to automatically install the required Visual Studio Code extensions.
+
+Run the VS Code extensions installer script:
+
+Open a PowerShell terminal as admin in the root directory of the project.
+Run the following command to install the necessary extensions for Visual Studio Code:
+```powershell
+.\InstallVSExtensions.ps1
+```
